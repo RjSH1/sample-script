@@ -2,8 +2,8 @@ resources:
   - name: github_new_1
     type: GitRepo
     configuration:
-      path: deepikasl/VT2
-      gitProvider: deepikaGithub
+      path: RjSH1/VT2
+      gitProvider: ACMEGit
 
 pipelines:
   - name: pipeline_new_1
